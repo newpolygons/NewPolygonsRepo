@@ -1,0 +1,32 @@
+Package: com.newpolygons.cryptowatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: NewPolygons
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.newpolygons.cryptowatch_0.0.1_iphoneos-arm.deb
+Size: 18020
+MD5sum: 7d7fddebf4a9d5eeac674f356474835f
+SHA1: e38f04bd2ff687d897488d0b6756a1be05d2993c
+SHA256: 71d9e18e37fbe63a1a9e7c3a32b4beedd317ac022cabe715fbbe2797c997dc47
+Section: Tweaks
+Description: Crypto Prices In Your Status Bar!
+Author: NewPolygons
+Name: CryptoWatch
+
+Package: com.newpolygons.frosting
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: NewPolygons <newpolygons121@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, me.kritanta.libCozy, com.spark.libsparkcolourpicker, firmware(>= 13)
+Filename: ./debs/com.newpolygons.frosting_2.0_iphoneos-arm.deb
+Size: 21110
+MD5sum: c17ff1dc52454e0558c6d0c48c630d29
+SHA1: 104b1eecdae7b5e006f7b484019ccd9ba09bd8a4
+SHA256: fb5b56931ce9f1e5f25665e22978f8ebbe520ccf9a1e9735282d1f50036fa9ff
+Section: Tweaks
+Description: Match System Tint To Wallpaper!
+Author: NewPolygons <newpolygons121@gmail.com>
+Name: Frosting
+
